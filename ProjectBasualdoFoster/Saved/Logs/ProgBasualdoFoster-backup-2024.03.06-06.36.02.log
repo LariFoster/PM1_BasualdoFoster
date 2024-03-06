@@ -1,0 +1,1671 @@
+﻿Log file open, 03/06/24 03:35:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=2300)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProgBasualdoFoster
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/ProgBasualdoFoster.uproject /Game/FirstPerson/Maps/MAP_FirstPerson -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.4046] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e6a77c3047558e502860a29e667e534b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.225924
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F8EFCDD64FA788AA29B42089DF768B22
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.4046] (), CPU: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/FirstPerson/Maps/MAP_FirstPerson -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.03.06-06.35.44:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.03.06-06.35.44:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.03.06-06.35.44:230][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.03.06-06.35.44:236][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.03.06-06.35.44:237][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.03.06-06.35.44:288][  0]LogD3D12RHI: Aftermath initialized
+[2024.03.06-06.35.44:288][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.03.06-06.35.44:420][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2024.03.06-06.35.44:420][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 16341MB of shared system memory, 1 output[s]
+[2024.03.06-06.35.44:422][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.03.06-06.35.44:422][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16341MB of shared system memory, 0 output[s]
+[2024.03.06-06.35.44:422][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.03.06-06.35.44:422][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.03.06-06.35.44:422][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.03.06-06.35.44:423][  0]LogHAL: Display: Platform has ~ 32 GB [34270687232 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.03.06-06.35.44:423][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.03.06-06.35.44:423][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.03.06-06.35.44:423][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.03.06-06.35.44:423][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.03.06-06.35.44:423][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Saved/Config/WindowsEditor/Editor.ini]
+[2024.03.06-06.35.44:423][  0]LogInit: Computer: DESKTOP-27D4U08
+[2024.03.06-06.35.44:423][  0]LogInit: User: Usuario
+[2024.03.06-06.35.44:423][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.03.06-06.35.44:423][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.03.06-06.35.44:423][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2024.03.06-06.35.44:423][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.03.06-06.35.44:423][  0]LogMemory: Process Physical Memory: 283.85 MB used, 295.32 MB peak
+[2024.03.06-06.35.44:423][  0]LogMemory: Process Virtual Memory: 253.55 MB used, 257.23 MB peak
+[2024.03.06-06.35.44:423][  0]LogMemory: Physical Memory: 15178.68 MB used,  17504.39 MB free, 32683.07 MB total
+[2024.03.06-06.35.44:423][  0]LogMemory: Virtual Memory: 21649.70 MB used,  13081.38 MB free, 34731.07 MB total
+[2024.03.06-06.35.44:423][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.03.06-06.35.44:427][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.03.06-06.35.44:438][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.03.06-06.35.44:439][  0]LogInit: Overriding language with game user settings language configuration option (es).
+[2024.03.06-06.35.44:439][  0]LogInit: Overriding language with game user settings locale configuration option (es).
+[2024.03.06-06.35.44:468][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.03.06-06.35.44:468][  0]LogWindowsTextInputMethodSystem:   - Español (Argentina) - (Keyboard).
+[2024.03.06-06.35.44:468][  0]LogWindowsTextInputMethodSystem:   - Español (Argentina) - (Keyboard).
+[2024.03.06-06.35.44:468][  0]LogWindowsTextInputMethodSystem:   - Español (México) - (Keyboard).
+[2024.03.06-06.35.44:468][  0]LogWindowsTextInputMethodSystem:   - Español (Argentina) - Corrección de entrada táctil (TSF IME).
+[2024.03.06-06.35.44:468][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (Argentina) - (Keyboard).
+[2024.03.06-06.35.44:486][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.03.06-06.35.44:486][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.03.06-06.35.44:496][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.03.06-06.35.44:498][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.03.06-06.35.44:498][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.03.06-06.35.44:580][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.03.06-06.35.44:613][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.03.06-06.35.44:618][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.03.06-06.35.44:626][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.03.06-06.35.44:645][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.03.06-06.35.44:645][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.03.06-06.35.44:646][  0]LogD3D12RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2024.03.06-06.35.44:646][  0]LogWindows: Attached monitors:
+[2024.03.06-06.35.44:646][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.03.06-06.35.44:646][  0]LogWindows: Found 1 attached monitors.
+[2024.03.06-06.35.44:646][  0]LogWindows: EnumDisplayDevices:
+[2024.03.06-06.35.44:646][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.03.06-06.35.44:646][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.03.06-06.35.44:646][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.03.06-06.35.44:646][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2024.03.06-06.35.44:647][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.03.06-06.35.44:647][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2024.03.06-06.35.44:647][  0]LogD3D12RHI:   Driver Version: 536.99 (internal:31.0.15.3699, unified:536.99)
+[2024.03.06-06.35.44:647][  0]LogD3D12RHI:      Driver Date: 8-4-2023
+[2024.03.06-06.35.44:647][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2024.03.06-06.35.44:647][  0]LogD3D12RHI: Async texture creation enabled
+[2024.03.06-06.35.44:647][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.03.06-06.35.44:654][  0]LogRHI: GeForceNow SDK initialized: 0
+[2024.03.06-06.35.44:658][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/ProgBasualdoFoster.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/ProgBasualdoFoster.uproject"  -platform=all'
+[2024.03.06-06.35.44:658][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/ProgBasualdoFoster.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/ProgBasualdoFoster.uproject"  -platform=all" ]
+[2024.03.06-06.35.44:687][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.03.06-06.35.44:692][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.03.06-06.35.44:692][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.03.06-06.35.44:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.03.06-06.35.44:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.03.06-06.35.44:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.03.06-06.35.44:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.03.06-06.35.44:698][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.03.06-06.35.44:702][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.03.06-06.35.44:704][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.03.06-06.35.44:704][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.03.06-06.35.44:704][  0]LogTargetPlatformManager:   ADPCM
+[2024.03.06-06.35.44:704][  0]LogTargetPlatformManager:   PCM
+[2024.03.06-06.35.44:706][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.03.06-06.35.44:706][  0]LogTargetPlatformManager:   BINKA
+[2024.03.06-06.35.44:706][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.03.06-06.35.44:706][  0]LogTargetPlatformManager:   OGG
+[2024.03.06-06.35.44:706][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.03.06-06.35.44:706][  0]LogTargetPlatformManager:   OPUS
+[2024.03.06-06.35.44:735][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.03.06-06.35.44:735][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.03.06-06.35.44:736][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.03.06-06.35.44:736][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.03.06-06.35.44:736][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.03.06-06.35.44:738][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.03.06-06.35.44:738][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.03.06-06.35.44:738][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.06-06.35.44:738][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.03.06-06.35.44:753][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.03.06-06.35.44:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.06-06.35.44:753][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.03.06-06.35.44:757][  0]LogDerivedDataCache: Speed tests for C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2024.03.06-06.35.44:757][  0]LogDerivedDataCache: Display: Performance to C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1881.96MBs, RandomWriteSpeed=318.38MBs. Assigned SpeedClass 'Local'
+[2024.03.06-06.35.44:758][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.03.06-06.35.44:758][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.03.06-06.35.44:758][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.03.06-06.35.44:762][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.03.06-06.35.44:762][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.03.06-06.35.44:763][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../../Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Intermediate/Shaders/WorkingDirectory/19108/).
+[2024.03.06-06.35.44:763][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/E5EC242E403E742D5514F4AE3B1BDB3A/'.
+[2024.03.06-06.35.44:763][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.03.06-06.35.44:763][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2024.03.06-06.35.45:869][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.03.06-06.35.45:869][  0]LogSlate: Using FreeType 2.10.0
+[2024.03.06-06.35.45:869][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.03.06-06.35.45:889][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2024.03.06-06.35.45:920][  0]LogInit: Overriding language with game user settings language configuration option (es).
+[2024.03.06-06.35.45:920][  0]LogInit: Overriding language with game user settings locale configuration option (es).
+[2024.03.06-06.35.45:930][  0]LogAssetRegistry: FAssetRegistry took 0.0093 seconds to start up
+[2024.03.06-06.35.46:073][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.001448 seconds
+[2024.03.06-06.35.46:074][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.03.06-06.35.46:074][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2024.03.06-06.35.46:326][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.03.06-06.35.46:326][  0]LogDeviceProfileManager: Active device profile: [00000BD105FA1C00][00000BD0F0790000 50] WindowsEditor
+[2024.03.06-06.35.46:326][  0]LogDeviceProfileManager: Profiles: [00000BD105FA16C0][00000BD0F0142800 50] Windows, [00000BD105FA1C00][00000BD0F0790000 50] WindowsEditor, [00000BD105FA2840][00000BD0FDA62800 50] WindowsServer, [00000BD105FA2BC0][00000BD0FF472800 50] WindowsClient, [00000BD105FA0000][00000BD105FB0000 50] IOS, [00000BD105FA0E00][00000BD105FB5000 50] iPadAir2, [00000BD105FA55C0][00000BD105FBA000 50] IPadPro, [00000BD105FA5940][00000BD105FB7800 50] iPadAir3, [00000BD105FA2F40][00000BD105FBC800 50] iPadAir4, [00000BD105FA3640][00000BD0FF43A000 50] iPadMini4, [00000BD105FA0FC0][00000BD105FF0000 50] iPadMini5, [00000BD105FA4EC0][00000BD105FF5000 50] iPadMini6, [00000BD105FA24C0][00000BD105FFC800 50] iPhone6S, [00000BD105FA7FC0][00000BD105FFA000 50] iPhone7, [00000BD105FA8340][00000BD105FF7800 50] iPodTouch7, [00000BD105FA0C40][00000BD105FB2800 50] iPhone6SPlus, [00000BD105FA4D00][00000BD105F90000 50] iPhone7Plus, [00000BD105FA0380][00000BD105F95000 50] iPhoneSE, [00000BD105FA1340][00000BD105F97800 50] iPhone8, [00000BD105FA6740][00000BD105F9A000 50] iPhone8Plus, [00000BD105FA3480][00000BD105F9C800 50] iPhoneX, [00000BD105FA40C0][00000BD105FF2800 50] iPhoneXS, [00000BD105FA7380][00000BD105FD0000 50] iPhoneXSMax, [00000BD105FA4980][00000BD105FD5000 50] iPhoneXR, [00000BD105FA1180][00000BD105FD7800 50] iPhone11, [00000BD105FA5080][00000BD105FDA000 50] iPhone11Pro, [00000BD105FA4600][00000BD105FDC800 50] iPhone11ProMax, [00000BD105FA5780][00000BD105F92800 50] iPhoneSE2, [00000BD105FA01C0][00000BD105F70000 50] iPhone12Mini, [00000BD105FA6C80][00000BD105F75000 50] iPhone12, [00000BD105FA8500][00000BD105F77800 50] iPhone12Pro, [00000BD105FA63C0][00000BD105F7A000 50] iPhone12ProMax, [00000BD105FA5B00][00000BD105F7C800 50] iPhone13Mini, [00000BD105FA7C40][00000BD105FD2800 50] iPhone13, [00000BD105FA2D80][00000BD106190000 50] iPhone13Pro, [00000BD105FA3F00][00000BD106195000 50] iPhone13ProMax, [00000BD105FA4280][00000BD106197800 50] iPadPro105, [00000BD105FA1A40][00000BD10619A000 50] iPadPro129, [00000BD105FA6AC0][00000BD10619C800 50] iPadPro97, [00000BD105FA5CC0][00000BD105F72800 50] iPadPro2_129, [00000BD105FA7540][00000BD1061A0000 50] iPad5, [00000BD105FA5400][00000BD1061A5000 50] iPad6, [00000BD105FA7A80][00000BD1061A7800 50] iPad7, [00000BD105FA0700][00000BD1061AA000 50] iPad8, [00000BD105FA2A00][00000BD1061AC800 50] iPad9, [00000BD105FA47C0][00000BD106192800 50] iPadPro11, [00000BD105FA2680][00000BD1061B0000 50] iPadPro2_11, [00000BD105FA3B80][00000BD1061B5000 50] iPadPro3_11, [00000BD105FA1DC0][00000BD1061B7800 50] iPadPro3_129, [00000BD105FA2300][00000BD1061BA000 50] iPadPro4_129, [00000BD105FA8C00][00000BD1061BC800 50] iPadPro5_129, [00000BD105FA7E00][00000BD1061A2800 50] AppleTV, [00000BD105FA4440][00000BD105F60000 50] AppleTV4K, [00000BD105FA7700][00000BD105F65000 50] TVOS, [00000BD105FAA480][00000BD105F6A000 50] Mac, [00000BD105FAA800][00000BD105F67800 50] MacEditor, [00000BD105FA71C0][00000BD105F6C800 50] MacClient, [00000BD105FA1500][00000BD1061B2800 50] MacServer, [00000BD105FAA2C0][00000BD1061C2800 50] Linux, [00000BD105FAA100][00000BD1061C0000 50] LinuxEditor, [00000BD105FA3100][00000BD1061C7800 50] LinuxArm64Editor, [00000BD105FA8DC0][00000BD1061CA000 50] LinuxArm64, [00000BD105FA4B40][00000BD1061CC800 50] LinuxClient, [00000BD105FA08C0][00000BD105F62800 50] LinuxArm64Client, [00000BD105FA3800][00000BD1061D0000 50] LinuxServer, [00000BD105FA9D80][00000BD1061D5000 50] LinuxArm64Server, [00000BD105FA6580][00000BD1061D7800 50] Android, [00000BD105FA9140][00000BD1061DA000 50] Android_Preview_OpenGL, [00000BD105FA8880][00000BD1061DC800 50] Android_Preview_Vulkan, [00000BD105FA39C0][00000BD1061C5000 50] Android_Low, [00000BD105FA32C0][00000BD1061E0000 50] Android_Mid, [00000BD105FA5E80][00000BD1061E5000 50] Android_High, [00000BD105FA6200][00000BD1061E7800 50] Android_Default, [00000BD105FA0A80][00000BD1061EA000 50] Android_Adreno4xx, [00000BD105FA6900][00000BD1061EC800 50] Android_Adreno5xx_Low, [00000BD105FA6040][00000BD1061D2800 50] Android_Adreno5xx, [00000BD105FA9F40][00000BD1061F0000 50] Android_Adreno6xx, [00000BD105FA8180][00000BD1061F5000 50] Android_Adreno6xx_Vulkan, [00000BD105FA1F80][00000BD1061F7800 50] Android_Adreno7xx, [00000BD105FA86C0][00000BD1061FA000 50] Android_Adreno7xx_Vulkan, [00000BD105FA9680][00000BD1061FC800 50] Android_Mali_T6xx, [00000BD105FA9BC0][00000BD1061E2800 50] Android_Mali_T7xx, [00000BD105FAB980][00000BD106200000 50] Android_Mali_T8xx, [00000BD105FA9300][00000BD106205000 50] Android_Mali_G71, [00000BD105FAB440][00000BD106207800 50] Android_Mali_G72, [00000BD105FAAB80][00000BD10620A000 50] Android_Mali_G72_Vulkan, [00000BD105FA9A00][00000BD10620C800 50] Android_Mali_G76, [00000BD105FABB40][00000BD1061F2800 50] Android_Mali_G76_Vulkan, [00000BD105FA8A40][00000BD106210000 50] Android_Mali_G77, [00000BD105FA6E40][00000BD106215000 50] Android_Mali_G77_Vulkan, [00000BD105FA9840][00000BD106217800 50] Android_Mali_G78, [00000BD105FAC940][00000BD10621A000 50] Android_Mali_G78_Vulkan, [00000BD105FAAD40][00000BD10621C800 50] Android_Mali_G710, [00000BD105FAC400][00000BD106202800 50] Android_Mali_G710_Vulkan, [00000BD105FAAF00][00000BD106220000 50] Android_Xclipse_920, [00000BD105FA8F80][00000BD106225000 50] Android_Xclipse_920_Vulkan, [00000BD105FACB00][00000BD106227800 50] Android_Vulkan_SM5, [00000BD105FAD040][00000BD10622A000 50] Android_PowerVR_G6xxx, [00000BD105FAD200][00000BD10622C800 50] Android_PowerVR_GT7xxx, [00000BD105FAC5C0][00000BD106212800 50] Android_PowerVR_GE8xxx, [00000BD105FAB280][00000BD106230000 50] Android_PowerVR_GM9xxx, [00000BD105FACE80][00000BD106235000 50] Android_PowerVR_GM9xxx_Vulkan, [00000BD105FABD00][00000BD106237800 50] Android_TegraK1, [00000BD105FAD3C0][00000BD10623A000 50] Android_Unknown_Vulkan, [00000BD105FAD580][00000BD10623C800 50] Oculus_Quest, [00000BD105FAB0C0][00000BD106222800 50] Oculus_Quest2, [00000BD105FAC240][00000BD106240000 50] HoloLens, 
+[2024.03.06-06.35.46:326][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.03.06-06.35.46:340][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.03.06-06.35.46:486][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.03.06-06.35.46:486][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.03.06-06.35.46:486][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.03.06-06.35.46:486][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.03.06-06.35.46:486][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.03.06-06.35.46:500][  0]LogNetVersion: ProgBasualdoFoster 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1236465380)
+[2024.03.06-06.35.46:681][  0]SourceControl: El control de código fuente está desactivado
+[2024.03.06-06.35.46:702][  0]SourceControl: El control de código fuente está desactivado
+[2024.03.06-06.35.46:702][  0]SourceControl: El control de código fuente está desactivado
+[2024.03.06-06.35.46:849][  0]LogMoviePlayer: Initializing movie player
+[2024.03.06-06.35.46:997][  0]LogPython: Using Python 3.9.7
+[2024.03.06-06.35.47:559][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CB54ACD64C92F932A2F02EB88F3C5593 | Instance: 4A37B3244205A8068984EEA7D3959DCC (DESKTOP-27D4U08-19108).
+[2024.03.06-06.35.47:574][  0]LogCollectionManager: Loaded 0 collections in 0.001346 seconds
+[2024.03.06-06.35.47:576][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Saved/Collections/' took 0.00s
+[2024.03.06-06.35.47:576][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Content/Developers/Usuario/Collections/' took 0.00s
+[2024.03.06-06.35.47:576][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealProject/PM1_BasualdoFoster/ProjectBasualdoFoster/Content/Collections/' took 0.00s
+[2024.03.06-06.35.47:576][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2024.03.06-06.35.47:590][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.03.06-06.35.47:593][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.03.06-06.35.47:622][  0]SourceControl: El control de código fuente está desactivado
+[2024.03.06-06.35.47:626][  0]LogUProjectInfo: Found projects:
+[2024.03.06-06.35.47:699][  0]LogOpenImageDenoise: OIDN starting up
+[2024.03.06-06.35.47:720][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.03.06-06.35.47:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.06-06.35.47:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.06-06.35.47:822][  0]LogUObjectArray: 27190 objects as part of root set at end of initial load.
+[2024.03.06-06.35.47:822][  0]LogUObjectAllocator: 7749912 out of 0 bytes used by permanent object pool.
+[2024.03.06-06.35.47:822][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.03.06-06.35.47:884][  0]LogEngine: Initializing Engine...
+[2024.03.06-06.35.47:886][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.03.06-06.35.48:027][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.03.06-06.35.48:027][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.03.06-06.35.48:031][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.03.06-06.35.48:032][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.03.06-06.35.48:032][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.03.06-06.35.48:032][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.03.06-06.35.48:032][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.03.06-06.35.48:032][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.06-06.35.48:032][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.06-06.35.48:032][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.06-06.35.48:032][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.06-06.35.48:032][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.06-06.35.48:032][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.06-06.35.48:032][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.06-06.35.48:032][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.06-06.35.48:033][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.06-06.35.48:033][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.06-06.35.48:033][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.06-06.35.48:037][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.06-06.35.48:064][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Redragon Gaming Headset)
+[2024.03.06-06.35.48:064][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.06-06.35.48:065][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.06-06.35.48:065][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.06-06.35.48:066][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.03.06-06.35.48:066][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.06-06.35.48:066][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.06-06.35.48:066][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.03.06-06.35.48:066][  0]LogInit: FAudioDevice initialized.
+[2024.03.06-06.35.48:067][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.03.06-06.35.48:067][  0]LogInit: Texture streaming: Enabled
+[2024.03.06-06.35.48:130][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.03.06-06.35.48:133][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.03.06-06.35.48:134][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.03.06-06.35.48:136][  0]LogLiveCoding: Display: Detected running instance in process group "UE_ProgBasualdoFoster_0xc6f6acb1", connecting to console process (PID: 10976)
+[2024.03.06-06.35.48:136][  0]LogLiveCoding: Display: Waiting for server
+[2024.03.06-06.35.48:136][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.03.06-06.35.48:136][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.03.06-06.35.48:136][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.06-06.35.48:138][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.03.06-06.35.48:138][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.06-06.35.48:138][  0]LogInit: Display: Game Engine Initialized.
+[2024.03.06-06.35.48:138][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2024.03.06-06.35.48:157][  0]LogInit: Display: Starting Game.
+[2024.03.06-06.35.48:157][  0]LogNet: Browse: /Game/FirstPerson/Maps/MAP_FirstPerson?Name=Player
+[2024.03.06-06.35.48:157][  0]LogLoad: LoadMap: /Game/FirstPerson/Maps/MAP_FirstPerson?Name=Player
+[2024.03.06-06.35.48:157][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2024.03.06-06.35.48:158][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.03.06-06.35.48:158][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.06-06.35.48:162][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.06-06.35.48:164][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.03.06-06.35.48:504][  0]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2024.03.06-06.35.48:505][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_FirstPerson'.
+[2024.03.06-06.35.48:506][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.06-06.35.48:522][  0]LogAIModule: Creating AISystem for world MAP_FirstPerson
+[2024.03.06-06.35.48:522][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.06-06.35.48:522][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=1, IsCooking=0)
+[2024.03.06-06.35.48:551][  0]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.06-06.35.48:551][  0]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.06-06.35.48:551][  0]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.03.06-06.35.48:551][  0]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2024.03.06-06.35.48:551][  0]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2024.03.06-06.35.48:551][  0]LogWorldPartition: Display: GetPartitionedActors took 78 us
+[2024.03.06-06.35.49:200][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane should be resaved to improve async compilation performance.
+[2024.03.06-06.35.49:768][  0]LogWorldPartition: Display: GenerateStreaming took 1.21 sec
+[2024.03.06-06.35.49:773][  0]LogWorldPartition: Display: WorldPartition initialize took 1.25 sec
+[2024.03.06-06.35.49:773][  0]LogLoad: Game class is 'GM_Basic_C'
+[2024.03.06-06.35.49:807][  0]LogWorld: Bringing World /Game/FirstPerson/Maps/MAP_FirstPerson.MAP_FirstPerson up for play (max tick rate 0) at 2024.03.06-03.35.49
+[2024.03.06-06.35.49:817][  0]LogNiagara: Compiling System NiagaraSystem /Game/Particles/NS_Blood.NS_Blood took 0.570013 sec, no shader worker used.
+[2024.03.06-06.35.49:827][  0]LogWorld: Bringing up level for play took: 0.045111
+[2024.03.06-06.35.49:838][  0]LogWorldPartition: New Streaming Source: BP_PC_C_0 -> Position: X=2398.741 Y=1352.174 Z=359.898
+[2024.03.06-06.35.49:838][  0]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.03.06-06.35.49:838][  0]LogLoad: Took 1.680423 seconds to LoadMap(/Game/FirstPerson/Maps/MAP_FirstPerson)
+[2024.03.06-06.35.49:838][  0]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.06-06.35.49:873][  0]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.06-06.35.49:908][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.03.06-06.35.49:908][  0]LogLoad: (Engine Initialization) Total time: 6.55 seconds
+[2024.03.06-06.35.49:908][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.03.06-06.35.50:524][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.03.06-06.35.50:528][  0]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:551][  1]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:635][  2]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:733][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:813][  4]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:821][  5]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:843][  6]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:864][  7]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:882][  8]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:900][  9]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:918][ 10]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:934][ 11]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:949][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:966][ 13]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:982][ 14]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.50:998][ 15]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:013][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:028][ 17]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:043][ 18]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:060][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:074][ 20]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:090][ 21]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:105][ 22]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:122][ 23]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:137][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:153][ 25]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:169][ 26]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:184][ 27]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:201][ 28]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:215][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:230][ 30]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:246][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:263][ 32]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:278][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:292][ 34]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:309][ 35]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:324][ 36]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:340][ 37]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:356][ 38]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:371][ 39]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:387][ 40]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:403][ 41]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:419][ 42]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:438][ 43]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:450][ 44]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:467][ 45]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:483][ 46]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:499][ 47]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:514][ 48]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:531][ 49]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:546][ 50]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:562][ 51]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'BackgroundMusic'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.06-06.35.51:562][ 51]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:578][ 52]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:594][ 53]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:610][ 54]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:625][ 55]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:641][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:658][ 57]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:674][ 58]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:691][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:707][ 60]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:724][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:740][ 62]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:756][ 63]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:772][ 64]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:788][ 65]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:803][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:818][ 67]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:833][ 68]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:850][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:866][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:882][ 71]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:895][ 72]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:911][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:927][ 74]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:941][ 75]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:956][ 76]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:971][ 77]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.51:985][ 78]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:000][ 79]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:014][ 80]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:029][ 81]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:043][ 82]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:058][ 83]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:072][ 84]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:090][ 85]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:101][ 86]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:117][ 87]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:135][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:147][ 89]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:162][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:176][ 91]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:193][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:207][ 93]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:224][ 94]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:236][ 95]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:257][ 96]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:267][ 97]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:285][ 98]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:299][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:315][100]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:330][101]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:344][102]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:358][103]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:372][104]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:387][105]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:401][106]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:416][107]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:431][108]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:445][109]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:461][110]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:475][111]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:489][112]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:503][113]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:519][114]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:534][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:548][116]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:562][117]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:577][118]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:594][119]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:607][120]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:621][121]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:635][122]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:650][123]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:664][124]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:678][125]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:692][126]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:706][127]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:721][128]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:735][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:750][130]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:763][131]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:778][132]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:793][133]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:808][134]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:821][135]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:836][136]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:852][137]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:866][138]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:880][139]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:894][140]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:908][141]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:923][142]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:937][143]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:951][144]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:965][145]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:980][146]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.52:994][147]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:009][148]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:022][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:037][150]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:052][151]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:066][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:081][153]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:095][154]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:109][155]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:124][156]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:138][157]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:152][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:166][159]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:182][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:195][161]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:210][162]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:225][163]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:238][164]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:254][165]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:268][166]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:282][167]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:296][168]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:310][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:324][170]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:338][171]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:352][172]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:367][173]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:382][174]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:396][175]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:410][176]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:425][177]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:439][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:454][179]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:468][180]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:483][181]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:498][182]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:511][183]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:527][184]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:541][185]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:554][186]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:569][187]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:584][188]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:599][189]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:612][190]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:625][191]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:639][192]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:654][193]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:669][194]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:684][195]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:698][196]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:712][197]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:727][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:741][199]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:755][200]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:770][201]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:784][202]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:799][203]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:813][204]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:828][205]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:842][206]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:857][207]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:871][208]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:885][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:900][210]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:914][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:929][212]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:943][213]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:958][214]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:971][215]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.53:986][216]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:003][217]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:015][218]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:030][219]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:044][220]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:059][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:072][222]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:088][223]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:102][224]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:116][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:131][226]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:145][227]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:160][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:175][229]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:190][230]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:203][231]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:218][232]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:231][233]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:246][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:261][235]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:275][236]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:288][237]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:302][238]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:318][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:332][240]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:346][241]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:361][242]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:375][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:390][244]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:404][245]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:418][246]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:433][247]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:447][248]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:462][249]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:476][250]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:490][251]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:504][252]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:519][253]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:534][254]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:548][255]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:562][256]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:577][257]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:592][258]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:605][259]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:620][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:634][261]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:649][262]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:663][263]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:677][264]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:691][265]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:705][266]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:720][267]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:735][268]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:749][269]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:763][270]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:778][271]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:792][272]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:806][273]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:820][274]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:835][275]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:850][276]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:865][277]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:879][278]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:894][279]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:908][280]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:923][281]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:937][282]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:952][283]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:966][284]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:981][285]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.54:995][286]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:010][287]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:023][288]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:037][289]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:052][290]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:066][291]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:081][292]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:095][293]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:109][294]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:124][295]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:138][296]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:153][297]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:167][298]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:182][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:197][300]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:211][301]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:226][302]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:240][303]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:254][304]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:268][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:283][306]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:297][307]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:311][308]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:327][309]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:340][310]LogBlueprintUserMessages: [WBP_Slots_C_0] Load Failed
+[2024.03.06-06.35.55:342][310]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:355][311]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:370][312]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:384][313]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:399][314]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:413][315]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:427][316]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:441][317]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:456][318]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:471][319]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:486][320]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:499][321]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:513][322]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:530][323]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:544][324]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:558][325]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:572][326]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:587][327]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:601][328]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:616][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:630][330]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:644][331]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:659][332]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:673][333]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:687][334]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:702][335]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:716][336]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:730][337]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:745][338]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:759][339]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:773][340]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:787][341]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:802][342]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:816][343]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:831][344]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:845][345]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:861][346]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:875][347]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:889][348]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:903][349]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:919][350]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:933][351]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:947][352]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:961][353]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:976][354]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.55:991][355]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:004][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:018][357]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:032][358]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:046][359]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:062][360]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:076][361]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:090][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:104][363]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:119][364]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:133][365]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:148][366]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:162][367]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:177][368]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:193][369]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:206][370]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:221][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:235][372]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:250][373]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:264][374]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:278][375]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:292][376]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:306][377]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:321][378]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:336][379]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:350][380]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:364][381]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:379][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:393][383]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:408][384]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:421][385]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:436][386]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:451][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:466][388]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:480][389]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:495][390]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:509][391]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:523][392]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:538][393]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:552][394]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:567][395]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:581][396]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:596][397]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:610][398]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:624][399]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:638][400]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:653][401]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:668][402]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:682][403]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:697][404]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:710][405]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:725][406]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:739][407]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:754][408]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:769][409]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:786][410]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:801][411]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:816][412]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:832][413]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:849][414]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:864][415]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:879][416]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:894][417]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:909][418]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:926][419]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:941][420]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:956][421]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:972][422]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.56:988][423]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:003][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:019][425]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:034][426]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:050][427]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:066][428]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:081][429]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:097][430]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:112][431]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:128][432]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:143][433]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:158][434]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:174][435]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:190][436]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:206][437]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:221][438]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:236][439]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:253][440]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:267][441]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:282][442]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:297][443]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:311][444]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:326][445]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:341][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:355][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:369][448]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:385][449]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:398][450]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:413][451]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:427][452]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:442][453]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:457][454]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:471][455]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:486][456]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:500][457]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:516][458]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:529][459]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:544][460]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:558][461]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:572][462]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:587][463]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:602][464]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:615][465]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:630][466]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:644][467]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:659][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:673][469]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:688][470]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:702][471]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:717][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:732][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:747][474]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:760][475]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:775][476]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:789][477]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:804][478]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:818][479]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:833][480]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:848][481]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:862][482]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:877][483]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:891][484]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:904][485]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:919][486]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:934][487]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:949][488]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:962][489]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:977][490]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.57:991][491]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:005][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:020][493]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:035][494]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:049][495]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:063][496]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:077][497]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:091][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:106][499]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:120][500]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:135][501]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:150][502]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:164][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:179][504]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:194][505]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:208][506]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:222][507]LogBlueprintUserMessages: [WBP_Slots_C_0] Load Failed
+[2024.03.06-06.35.58:223][507]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:237][508]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:251][509]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:265][510]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:280][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:293][512]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:308][513]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:323][514]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:338][515]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:352][516]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:366][517]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:382][518]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:396][519]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:410][520]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:424][521]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:438][522]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:453][523]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:467][524]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:482][525]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:497][526]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:512][527]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:526][528]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:540][529]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:554][530]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:568][531]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:584][532]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:598][533]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:612][534]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:627][535]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:641][536]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:655][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:670][538]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:685][539]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:699][540]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:713][541]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:728][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:742][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:755][544]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:770][545]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:785][546]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:799][547]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:813][548]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:827][549]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:842][550]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:857][551]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:871][552]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:886][553]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:900][554]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:915][555]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:930][556]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:943][557]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:957][558]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:971][559]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.58:986][560]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:000][561]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:015][562]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:029][563]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:044][564]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:059][565]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:074][566]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:087][567]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:102][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:117][569]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:132][570]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:146][571]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:160][572]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:174][573]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:189][574]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:204][575]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:218][576]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:233][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:247][578]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:262][579]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:276][580]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:290][581]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:304][582]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:319][583]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:333][584]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:347][585]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:361][586]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:375][587]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:391][588]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:404][589]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:420][590]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:433][591]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:447][592]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:462][593]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:477][594]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:491][595]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:506][596]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:521][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:535][598]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:549][599]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:564][600]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:578][601]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:592][602]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:606][603]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:621][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:635][605]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:651][606]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:665][607]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:679][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:693][609]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:707][610]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:722][611]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:736][612]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:751][613]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:766][614]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:780][615]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:794][616]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:808][617]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:822][618]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:836][619]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:851][620]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:866][621]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:880][622]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:894][623]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:908][624]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:923][625]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:937][626]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:951][627]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:965][628]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:980][629]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.35.59:995][630]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:009][631]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:022][632]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:037][633]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:052][634]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:067][635]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:080][636]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:095][637]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:109][638]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:123][639]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:137][640]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:151][641]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:166][642]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:180][643]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:196][644]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:211][645]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:224][646]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:237][647]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:253][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:267][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:281][650]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.06-06.36.00:390][651]LogSlate: Window 'ProgBasualdoFoster (64-bit Development PCD3D_SM5) ' being destroyed
+[2024.03.06-06.36.00:391][651]LogWindowsTextInputMethodSystem: Activated input method: Español (Argentina) - (Keyboard).
+[2024.03.06-06.36.00:394][651]LogWindowsTextInputMethodSystem: Activated input method: Español (Argentina) - (Keyboard).
+[2024.03.06-06.36.00:395][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.06-06.36.00:395][651]LogEngine: All Windows Closed
+[2024.03.06-06.36.00:395][651]LogWindows: FPlatformMisc::RequestExit(0)
+[2024.03.06-06.36.00:395][651]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2024.03.06-06.36.00:395][651]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.03.06-06.36.00:395][652]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.03.06-06.36.00:395][652]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.03.06-06.36.00:395][652]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.03.06-06.36.00:395][652]LogInit: Display: PreExit Game.
+[2024.03.06-06.36.00:403][652]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/MAP_FirstPerson
+[2024.03.06-06.36.00:404][652]LogWorld: UWorld::CleanupWorld for MAP_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2024.03.06-06.36.00:405][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.06-06.36.00:895][652]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.06-06.36.00:895][652]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.06-06.36.00:895][652]LogAudio: Display: Audio Device unregistered from world 'MAP_FirstPerson'.
+[2024.03.06-06.36.00:933][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.06-06.36.00:934][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.06-06.36.00:936][652]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.06-06.36.00:938][652]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.06-06.36.00:938][652]LogExit: Preparing to exit.
+[2024.03.06-06.36.00:945][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.06-06.36.00:962][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.06-06.36.00:992][652]LogMoviePlayer: Shutting down movie player
+[2024.03.06-06.36.01:637][652]LogExit: Game engine shut down
+[2024.03.06-06.36.01:640][652]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.03.06-06.36.01:676][652]LogExit: Object subsystem successfully closed.
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: ================================================
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.06-06.36.01:679][652]LogShaderCompilers: Display: ================================================
+[2024.03.06-06.36.01:728][652]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (528)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module SequenceRecorder (526)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module AutomationController (524)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module AutomationWorker (522)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module Voice (520)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module AIModule (518)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module GameplayDebugger (517)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module AITestSuite (515)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module NavigationSystem (513)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module AnimGraph (510)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module PlanarCut (506)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (504)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module WebMMedia (502)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module SessionServices (492)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (490)
+[2024.03.06-06.36.01:747][652]LogModuleManager: Shutting down and abandoning module LiveCoding (488)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (486)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module MovieScene (484)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (482)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module PortalServices (480)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module PortalRpc (478)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module MessagingRpc (476)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (474)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module AudioMixer (473)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module AudioMixerCore (472)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (468)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module TypedElementFramework (466)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (464)
+[2024.03.06-06.36.01:760][652]LogModuleManager: Shutting down and abandoning module ProfilerService (462)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module TaskGraph (460)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (458)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (456)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module InterchangePipelines (454)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module InterchangeExport (452)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module InterchangeMessages (450)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module InterchangeImport (448)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module InterchangeNodes (446)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module Synthesis (444)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ResonanceAudio (442)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (440)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (438)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ModelingOperators (436)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ModelingComponents (434)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module MeshModelingTools (432)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GooglePAD (430)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module DynamicMesh (428)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (426)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (424)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (423)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryCache (420)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (419)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module AssetTags (416)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (414)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module CableComponent (412)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module AudioCapture (410)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (409)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (406)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (404)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module AppleImageUtils (402)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module AndroidPermission (400)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (396)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module TemplateSequence (394)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module SequencerScripting (392)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (390)
+[2024.03.06-06.36.01:858][652]LogOpenImageDenoise: OIDN shutting down
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (386)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ImgMedia (384)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (382)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (380)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (378)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (377)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (374)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ChaosNiagara (372)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module BackChannel (370)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (366)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module HotReload (365)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (362)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module UObjectPlugin (360)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (358)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (356)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module ControlRigSpline (354)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (352)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module SoundFields (350)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module SignificanceManager (348)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (346)
+[2024.03.06-06.36.01:858][652]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (344)
+[2024.03.06-06.36.01:859][652]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (342)
+[2024.03.06-06.36.01:859][652]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (340)
+[2024.03.06-06.36.01:859][652]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (339)
+[2024.03.06-06.36.01:859][652]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (336)
+[2024.03.06-06.36.01:859][652]LogModuleManager: Shutting down and abandoning module UdpMessaging (334)
+[2024.03.06-06.36.01:960][652]LogModuleManager: Shutting down and abandoning module TcpMessaging (332)
+[2024.03.06-06.36.02:601][652]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (330)
+[2024.03.06-06.36.02:601][652]LogModuleManager: Shutting down and abandoning module Niagara (328)
+[2024.03.06-06.36.02:601][652]LogModuleManager: Shutting down and abandoning module SignalProcessing (327)
+[2024.03.06-06.36.02:601][652]LogModuleManager: Shutting down and abandoning module NiagaraEditor (325)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ContentBrowser (324)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module CollectionManager (321)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (320)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ContentBrowserData (317)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ActorSequence (310)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (308)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (306)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module PBIK (304)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module FullBodyIK (302)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (300)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module FacialAnimation (298)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (296)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module TreeMap (295)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (292)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module AnimationSharing (290)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (288)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module GameplayCameras (286)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (284)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module IKRig (282)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (280)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ControlRig (278)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module LevelSequence (277)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module Paper2D (274)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (272)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (270)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module AndroidFileServer (268)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (266)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module PacketHandler (264)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module AnimationDataController (262)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2024.03.06-06.36.02:602][652]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2024.03.06-06.36.02:603][652]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2024.03.06-06.36.02:603][652]LogModuleManager: Shutting down and abandoning module Sequencer (234)
+[2024.03.06-06.36.02:603][652]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2024.03.06-06.36.02:603][652]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2024.03.06-06.36.02:603][652]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (222)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module Messaging (214)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (212)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (210)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module Core (206)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MaterialEditor (204)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MovieSceneTools (202)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module EditorStyle (201)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MeshBuilder (196)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module NaniteBuilder (194)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MeshUtilities (192)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (191)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (190)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (189)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (187)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (185)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (183)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MaterialBaking (179)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (174)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (172)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (170)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (168)
+[2024.03.06-06.36.02:604][652]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module TargetPlatform (164)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (163)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (161)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (159)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module AudioFormatBink (157)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (155)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (153)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (151)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (149)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module TextureFormat (147)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (146)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (144)
+[2024.03.06-06.36.02:605][652]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (142)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (140)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (138)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (136)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module ImageWrapper (135)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module TurnkeySupport (131)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module InputCore (128)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module Settings (126)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2024.03.06-06.36.02:606][652]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2024.03.06-06.36.02:607][652]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2024.03.06-06.36.02:607][652]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2024.03.06-06.36.02:636][652]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2024.03.06-06.36.02:636][652]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2024.03.06-06.36.02:653][652]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2024.03.06-06.36.02:654][652]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (78)
+[2024.03.06-06.36.02:654][652]LogModuleManager: Shutting down and abandoning module NiagaraShader (76)
+[2024.03.06-06.36.02:654][652]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2024.03.06-06.36.02:654][652]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2024.03.06-06.36.02:656][652]LogModuleManager: Shutting down and abandoning module Media (71)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2024.03.06-06.36.02:657][652]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2024.03.06-06.36.02:658][652]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.03.06-06.36.02:674][652]LogD3D12RHI: Display: D3D12 ReleaseResources: 109 items to release
+[2024.03.06-06.36.02:674][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1280 x 720 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.03.06-06.36.02:674][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1280 x 720 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.03.06-06.36.02:674][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1280 x 720 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.03.06-06.36.02:675][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.03.06-06.36.02:675][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.03.06-06.36.02:675][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.03.06-06.36.02:676][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.03.06-06.36.02:676][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.03.06-06.36.02:676][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.03.06-06.36.02:676][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.03.06-06.36.02:676][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.03.06-06.36.02:676][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.03.06-06.36.02:677][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.03.06-06.36.02:678][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.03.06-06.36.02:678][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 4096 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.03.06-06.36.02:681][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:681][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:681][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:681][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:681][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.03.06-06.36.02:681][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.03.06-06.36.02:682][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.03.06-06.36.02:682][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2024.03.06-06.36.02:682][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.03.06-06.36.02:682][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2024.03.06-06.36.02:682][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2024.03.06-06.36.02:682][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2024.03.06-06.36.02:682][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2024.03.06-06.36.02:682][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2024.03.06-06.36.02:683][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2024.03.06-06.36.02:683][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2024.03.06-06.36.02:683][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2024.03.06-06.36.02:684][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2024.03.06-06.36.02:684][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2024.03.06-06.36.02:684][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2024.03.06-06.36.02:685][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget0", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2024.03.06-06.36.02:685][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.CapturedSkyRenderTarget", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2024.03.06-06.36.02:685][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget1", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2024.03.06-06.36.02:685][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:686][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.03.06-06.36.02:686][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:686][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:686][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 40 x 23 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:686][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 40 x 23 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:686][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.03.06-06.36.02:686][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.03.06-06.36.02:686][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:687][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:687][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 640 x 536 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:687][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 80 x 67 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.03.06-06.36.02:688][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 80 x 67 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2024.03.06-06.36.02:688][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2024.03.06-06.36.02:688][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.03.06-06.36.02:688][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneDepthZ", 1280 x 720 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2024.03.06-06.36.02:688][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1280 x 720 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2024.03.06-06.36.02:688][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 1280 x 720 x 1, Mips: 2, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:689][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1280 x 720 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:689][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1280 x 720 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.03.06-06.36.02:689][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1280 x 720 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:689][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1280 x 720 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:689][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1280 x 720 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2024.03.06-06.36.02:689][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1280 x 720 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2024.03.06-06.36.02:689][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1280 x 720 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2024.03.06-06.36.02:689][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1280 x 720 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:690][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaft.TemporalAA", 640 x 360 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:690][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1280 x 720 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.03.06-06.36.02:690][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1280 x 720 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.03.06-06.36.02:690][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1280 x 720 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.03.06-06.36.02:690][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1280 x 720 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:690][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:690][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:690][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceRadianceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHRedAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHGreenAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHBlueAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1280 x 720 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1280 x 720 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1280 x 720 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOF.TemporalAA", 640 x 360 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.InstanceIdsBuffer", 204 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:691][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:692][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.ProcessGPUInstanceInvalidationsIndirectArgs", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:692][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:692][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur.FilterDispatchParameters", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:692][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:692][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:692][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "DOFIndirectDrawParameters", 65520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:693][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:693][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactRayTraceDispatchIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:693][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FilterProbesIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:693][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceCacheHardwareRayTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:693][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FixupProbeBordersIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.03.06-06.36.02:693][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.03.06-06.36.02:693][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.03.06-06.36.02:693][652]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.03.06-06.36.02:755][652]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.03.06-06.36.02:755][652]LogExit: Exiting.
+[2024.03.06-06.36.02:759][652]Log file closed, 03/06/24 03:36:02
